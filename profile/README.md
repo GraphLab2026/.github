@@ -1,5 +1,7 @@
 # GraphRoadMap
 
+**中文** | [English](./README_EN.md)
+
 ## 历史脉络
 
 图技术从 2015 年至今经历了快速发展，从早期的 OLTP 图数据库到 OLAP 图计算分析，再到如今 AI 驱动的轻量化与智能化方向。

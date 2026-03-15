@@ -1,12 +1,10 @@
 # GraphRoadMap
 
-[中文版本](./profile/README.md) | **English**
-
 ## Historical Timeline
 
 Graph technology has experienced rapid development from 2015 to the present, evolving from early OLTP graph databases to OLAP graph analytics, and now moving towards AI-driven lightweight and intelligent solutions.
 
-![Graph Technology Timeline (2015-2026)](./resource/RoadMap.png)
+![Graph Technology Timeline (2015-2026)](../resource/RoadMap.png)
 
 ---
 
